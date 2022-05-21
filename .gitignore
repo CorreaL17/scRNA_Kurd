@@ -1,0 +1,3 @@
+#Ignore data directory /GSE*
+GSE*/
+Scanpy_Objects/
